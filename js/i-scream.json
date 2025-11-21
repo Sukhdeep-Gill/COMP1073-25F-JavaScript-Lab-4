@@ -1,0 +1,54 @@
+{
+  "companyName" : "I Scream Inc.",
+  "headOffice" : "South Pole, Antarctica",
+  "established" : 2001,
+  "active" : true,
+  "topFlavors" : [
+    {
+      "name" : "Monstrous Mint",
+      "calories" : 10,
+      "type" : "ice cream",
+      "ingredients" : [
+        "peppermint cream",
+        "dark chocolate chips",
+        "vanilla extract"
+      ],
+      "image" : "chocolate-mint.svg"
+    },
+    {
+      "name" : "Perfect Peach Mango",
+      "calories" : 250,
+      "type" : "sorbet",
+      "ingredients" : [
+        "peach purée",
+        "mango chunks",
+        "clover honey"
+      ],
+      "image" : "peach-mango.svg"
+    },
+     {
+       "name": "Strawberry Sprinkle",
+       "calories": 120,
+       "type": "ice cream",
+       "colorDescription": "A soft, creamy pink ice cream blended with sweet strawberries and topped with colourful rainbow sprinkles for a fun, playful look.",
+       "ingredients": [
+          "fresh strawberry purée",
+          "vanilla cream",
+          "rainbow sprinkles"
+     ],
+      "image": "strawberry-sprinkle.svg"
+    },
+    {
+       "name": "Mocha Chocolate Chip",
+       "calories": 450,
+       "type": "ice cream",
+       "colorDescription": "A rich, creamy coffee-brown ice cream blended with dark chocolate chips for a bold mocha look.",
+       "ingredients": [
+          "espresso cream",
+          "dark chocolate chips",
+          "cocoa powder"
+  ],
+  "image": "ice-cream-xtra2.svg"
+}
+  ]
+}
